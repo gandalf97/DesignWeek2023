@@ -64,7 +64,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
+  - {fileID: 2100000, guid: b203f9d9ec7716740a1b6288c93936da, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -111,6 +111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00a6dc259f70e7c4ea0b44bc83734cab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  puddlePrefab: {fileID: 2861678752425933608, guid: c48c94b124c494840b04edf3c3ef9086, type: 3}
 --- !u!54 &1581318062984105630
 Rigidbody:
   m_ObjectHideFlags: 0

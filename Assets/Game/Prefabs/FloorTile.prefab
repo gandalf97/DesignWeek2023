@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 792401757271892844}
   - component: {fileID: 792401757271892819}
   - component: {fileID: 792401757271892818}
-  - component: {fileID: 792401757271892847}
   - component: {fileID: 792401757271892846}
   m_Layer: 0
   m_Name: FloorTile
@@ -64,7 +63,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -99,20 +98,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!64 &792401757271892847
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 792401757271892817}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!114 &792401757271892846
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -128,5 +113,5 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: b203f9d9ec7716740a1b6288c93936da, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}

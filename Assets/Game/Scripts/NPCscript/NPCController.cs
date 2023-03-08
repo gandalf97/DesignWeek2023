@@ -37,17 +37,15 @@ public class NPCController : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnTriggerEnter(Collider other)
     {
-        if (collision.gameObject.GetComponent<GroundTile>() && !fellOver)
+        if(other.gameObject.GetComponent<PuddleScript>())
         {
-            if (collision.gameObject.GetComponent<GroundTile>().isWet)
-            {
-                GetComponent<NavMeshAgent>().enabled = false;
-                fellOver = true;
-                humanRB.AddRelativeTorque(new Vector3(3,0,3), ForceMode.Impulse);
-                //humanRB.AddForceAtPosition(new Vector3(1, 0, 1), this.transform.position - new Vector3(0, 0.5f, 0));
-            }
+            Vector3 forceDirection = navAgent.velocity;
+            navAgent.enabled = false;
+            fellOver = true;
+            //humanRB.AddRelativeTorque(new Vector3(3,0,3), ForceMode.Impulse);
+            humanRB.AddForceAtPosition(forceDirection * 100.0f, this.transform.position - new Vector3(0, 1.0f, 0));
         }
     }
 }

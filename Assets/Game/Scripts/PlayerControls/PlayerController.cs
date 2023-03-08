@@ -6,9 +6,10 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody playerRB;
-    [SerializeField] private float accelerationValue = 10.0f;
+    [SerializeField] private float movementValue = 1.0f;
     [SerializeField] private ForceMode movementForce;
-    [SerializeField] private float maxVelocity = 50.0f;
+
+    [SerializeField] private float waterSlipMultplier = 0.5f;
 
     // Start is called before the first frame update
     void Start()
@@ -20,53 +21,38 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         UserMovement();
-        VelocityLimit();
     }
 
-    private void OnCollisionStay(Collision collision)
+    private void OnTriggerStay(Collider other)
     {
-        if(collision.gameObject.GetComponent<GroundTile>())
+        if(other.gameObject.GetComponent<PuddleScript>())
         {
-            if(collision.gameObject.GetComponent<GroundTile>().isWet)
-            {
-                playerRB.velocity += 0.07f * playerRB.velocity.normalized;
-            }
-            else
-            {
-                playerRB.velocity -= 0.07f * playerRB.velocity.normalized;
-            }
-        }
-    }
-
-    private void VelocityLimit()
-    {
-        if (playerRB.velocity.magnitude > maxVelocity)
-        {
-            playerRB.velocity.Normalize();
-            playerRB.velocity *= maxVelocity;
+            playerRB.velocity += playerRB.velocity.normalized * waterSlipMultplier;
         }
     }
 
     private void UserMovement()
     {
-        Vector3 acceleration = Vector3.zero;
+        Vector3 moveDirection = Vector3.zero;
         if (Input.GetKey(KeyCode.W))
         {
-            acceleration.z += Time.deltaTime * accelerationValue;
+            moveDirection.z += 1;
         }
         if (Input.GetKey(KeyCode.S))
         {
-            acceleration.z -= Time.deltaTime * accelerationValue;
+            moveDirection.z -= 1;
         }
         if (Input.GetKey(KeyCode.D))
         {
-            acceleration.x += Time.deltaTime * accelerationValue;
+            moveDirection.x += 1;
         }
         if (Input.GetKey(KeyCode.A))
         {
-            acceleration.x -= Time.deltaTime * accelerationValue;
+            moveDirection.x -= 1;
         }
 
-        playerRB.velocity += acceleration;
+        moveDirection.Normalize();
+        moveDirection *= movementValue;
+        playerRB.AddForce(moveDirection, movementForce);
     }
 }
