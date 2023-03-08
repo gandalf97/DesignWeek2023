@@ -64,7 +64,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 5319d587aa4bfdb4a8c4a0f53e39f248, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -128,5 +128,5 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: ae985a7f6a3384c4297376cb241ca1c6, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 5319d587aa4bfdb4a8c4a0f53e39f248, type: 2}
