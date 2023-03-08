@@ -6,9 +6,12 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody playerRB;
+    [SerializeField] private GameObject signMesh;
     [SerializeField] private float accelerationValue = 10.0f;
     [SerializeField] private ForceMode movementForce;
     [SerializeField] private float maxVelocity = 50.0f;
+
+    private bool input = false; //If player is sending input, for animations
 
     // Start is called before the first frame update
     void Start()
@@ -21,6 +24,10 @@ public class PlayerController : MonoBehaviour
     {
         UserMovement();
         VelocityLimit();
+
+        //Sign Animations
+        signMesh.GetComponent<Animator>().SetBool("Walking", input);
+
     }
 
     private void OnCollisionStay(Collision collision)
@@ -49,24 +56,36 @@ public class PlayerController : MonoBehaviour
 
     private void UserMovement()
     {
+
+        input = false;
+
         Vector3 acceleration = Vector3.zero;
         if (Input.GetKey(KeyCode.W))
         {
             acceleration.z += Time.deltaTime * accelerationValue;
+            input = true;
         }
         if (Input.GetKey(KeyCode.S))
         {
             acceleration.z -= Time.deltaTime * accelerationValue;
+            input = true;
+
         }
         if (Input.GetKey(KeyCode.D))
         {
             acceleration.x += Time.deltaTime * accelerationValue;
+            input = true;
+
         }
         if (Input.GetKey(KeyCode.A))
         {
             acceleration.x -= Time.deltaTime * accelerationValue;
+            input = true;
+
         }
 
         playerRB.velocity += acceleration;
     }
+
+
 }
