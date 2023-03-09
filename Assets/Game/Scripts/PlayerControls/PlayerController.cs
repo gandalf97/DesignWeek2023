@@ -77,7 +77,7 @@ public class PlayerController : MonoBehaviour
     {
         if (playerRB.velocity.sqrMagnitude > 0)
         {
-            transform.LookAt(transform.position + playerRB.velocity - new Vector3(0, playerRB.velocity.y, 0));
+            transform.LookAt(transform.position - playerRB.velocity - new Vector3(0, playerRB.velocity.y, 0));
         }
     }
 
