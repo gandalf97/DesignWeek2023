@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/FinalGameScenes/Hallway.unity
+    guid: 256ef727e4412c146a9a8913f0ec560c
+  - enabled: 1
+    path: Assets/Game/Scenes/FinalGameScenes/Food Court.unity
+    guid: 5f8d3ce4492781a40aafadf299fbb3a9
+  - enabled: 1
+    path: Assets/Game/Scenes/FinalGameScenes/Hot Topic Test.unity
+    guid: 69630d42393c63d4fbb142e58f81257e
   m_configObjects: {}
