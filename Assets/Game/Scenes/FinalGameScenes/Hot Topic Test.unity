@@ -171,11 +171,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &4745599
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -301,11 +296,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &9619842
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -431,11 +421,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &14489137
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -561,11 +546,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &16408328
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -691,11 +671,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &22662219
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -821,11 +796,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &30961429
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -951,11 +921,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &38269536
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1081,11 +1046,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &39301374
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1272,11 +1232,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &65722944
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1402,11 +1357,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &81105203
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1532,11 +1482,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &87475808
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1662,11 +1607,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &112348582
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1792,11 +1732,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &113833366
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2093,11 +2028,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &166063769
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2223,11 +2153,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &174543248
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2353,11 +2278,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &181433394
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2483,11 +2403,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &205332053
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2613,11 +2528,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &207848655
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2743,11 +2653,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &208421192
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2873,11 +2778,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &217748990
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3003,11 +2903,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &220343426
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3133,11 +3028,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &228188585
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3391,11 +3281,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &244602063
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3526,11 +3411,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &254839129
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3656,11 +3536,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &259622225
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3786,11 +3661,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &274761641
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3916,11 +3786,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &296745833
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4046,11 +3911,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &321228820
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4176,11 +4036,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &334015585
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4306,11 +4161,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &346236207
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4436,11 +4286,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &376534338
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4566,11 +4411,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &379337290
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4701,11 +4541,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &394697156
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4831,11 +4666,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &406513056
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4961,11 +4791,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &416051637
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5096,11 +4921,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &436290651
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5258,11 +5078,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &477836213
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5388,11 +5203,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &501764373
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5523,11 +5333,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &507638841
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5653,11 +5458,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &511076180
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5783,11 +5583,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &530908277
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5913,11 +5708,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &533096172
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6043,11 +5833,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &535124431
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6173,11 +5958,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &545582306
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6255,6 +6035,67 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 545582303}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &566482226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 566482227}
+  - component: {fileID: 566482228}
+  - component: {fileID: 566482229}
+  m_Layer: 0
+  m_Name: DoorWay
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &566482227
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566482226}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -29.57, y: 0.24, z: 10.79}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &566482228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566482226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03e74ef6e57515a44ac71e244bde0e84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneNumber: 2
+  delayTime: 5
+  exitDirection: {x: 1, y: 0}
+--- !u!65 &566482229
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566482226}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 7.35, z: 11.07}
+  m_Center: {x: 0, y: 2.03, z: 0}
 --- !u!1 &575300502
 GameObject:
   m_ObjectHideFlags: 0
@@ -6339,11 +6180,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &592234070
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6469,11 +6305,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &607574379
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6680,11 +6511,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &615622439
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6810,11 +6636,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &623381829
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6940,11 +6761,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &629863909
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7070,11 +6886,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &630605256
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7200,11 +7011,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &644614616
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7330,11 +7136,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &654436445
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7460,11 +7261,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &665701825
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7590,11 +7386,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &666653499
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7725,11 +7516,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &702965809
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7860,11 +7646,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &727653540
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7990,11 +7771,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &740726595
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8120,11 +7896,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &749598184
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8250,11 +8021,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &750315429
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8477,11 +8243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &763865904
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8607,11 +8368,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &772499969
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8737,11 +8493,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &783301606
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8867,11 +8618,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &808331541
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8997,11 +8743,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &813369202
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9127,11 +8868,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &818603300
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9257,11 +8993,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &828945861
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9387,11 +9118,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &877221947
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9517,11 +9243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &927890663
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9647,11 +9368,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &931517032
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9777,11 +9493,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &960960973
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9907,11 +9618,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1006474430
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10042,11 +9748,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1028463198
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10172,11 +9873,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1039443399
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10302,11 +9998,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1040419842
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10432,11 +10123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1045757263
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10562,11 +10248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1058753988
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10692,11 +10373,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1088804202
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10822,11 +10498,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1095127389
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10952,11 +10623,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1097670139
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11082,11 +10748,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1118892251
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11212,11 +10873,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1122125807
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11342,11 +10998,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1124695419
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11477,11 +11128,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1136109557
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11612,11 +11258,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1146979353
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11889,11 +11530,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1178168341
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12019,11 +11655,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1203117295
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12226,11 +11857,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1235415528
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12356,11 +11982,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1262237961
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12486,11 +12107,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1268945147
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12616,11 +12232,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1270279996
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12746,11 +12357,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1282851720
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12876,11 +12482,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1285822865
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13006,11 +12607,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1288142766
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13209,11 +12805,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1292233415
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13339,11 +12930,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1305898394
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13469,11 +13055,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1311555862
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13599,11 +13180,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1323706950
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13729,11 +13305,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1346776728
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13859,11 +13430,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1349946965
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14112,11 +13678,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1402203077
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14242,11 +13803,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1409642190
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14372,11 +13928,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1421105377
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14576,11 +14127,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1441506159
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14706,11 +14252,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1530006309
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14836,11 +14377,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1558297094
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15080,11 +14616,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1583987521
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15215,11 +14746,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1626717578
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15345,11 +14871,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1630442910
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15475,11 +14996,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1641561254
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15605,11 +15121,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1646853897
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15735,11 +15246,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1657951817
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15865,11 +15371,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1662273033
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15995,11 +15496,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1670165266
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16157,11 +15653,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1685898565
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16287,11 +15778,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1686016831
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16417,11 +15903,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1686275885
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16547,11 +16028,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1686968368
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16677,11 +16153,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1690338589
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16880,11 +16351,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1709576303
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17015,11 +16481,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1743886013
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17145,11 +16606,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1752741148
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17275,11 +16731,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1759528552
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17450,11 +16901,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1771148353
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17580,11 +17026,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1810407884
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17715,11 +17156,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1823018323
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17906,11 +17342,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1827350546
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18036,11 +17467,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1839075817
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18243,11 +17669,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1853643998
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18373,11 +17794,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1870419632
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18503,11 +17919,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1891296338
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18633,11 +18044,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1925515043
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18763,11 +18169,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1935760346
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18924,11 +18325,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1950614488
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19054,11 +18450,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1951635701
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19184,11 +18575,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1986639273
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19388,11 +18774,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &2050559809
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19518,11 +18899,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &2092711920
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19648,11 +19024,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &2111332759
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19778,11 +19149,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &2126378787
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19908,11 +19274,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f28453fab9b2d3649a2c81a193e8b77e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isWet: 0
-  wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
-  dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &2128001432
 MeshCollider:
   m_ObjectHideFlags: 0
