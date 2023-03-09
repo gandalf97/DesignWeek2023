@@ -37,13 +37,13 @@ public class PuddleScript : MonoBehaviour
             Destroy(other.gameObject);
         }
 
-        if(other.GetComponent<PuddleScript>())
-        {
-            if (transform.localScale.x > other.transform.localScale.x)
-            {
-                Destroy(other.transform.root.gameObject);
-                growthTimer += growthScale;
-            }
-        }
+        //if(other.GetComponent<PuddleScript>())
+        //{
+        //    if (transform.localScale.x > other.transform.localScale.x)
+        //    {
+        //        Destroy(other.transform.root.gameObject);
+        //        growthTimer += growthScale;
+        //    }
+        //}
     }
 }
