@@ -12,6 +12,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private ForceMode movementForce;
     [SerializeField] private float waterSlipMultplier = 0.5f;
     [SerializeField] private Transform cameraTransform;
+    [SerializeField] private GameObject waterParticle;
+    [SerializeField] private GameObject waterParticle2;
     private bool inWater = false;
 
     // Start is called before the first frame update
@@ -86,6 +88,9 @@ public class PlayerController : MonoBehaviour
         if (other.gameObject.GetComponent<PuddleScript>())
         {
             inWater = true;
+            waterParticle.GetComponent<ParticleSystem>().Play();
+            waterParticle2.GetComponent<ParticleSystem>().Play();
+
         }
     }
 
@@ -94,6 +99,8 @@ public class PlayerController : MonoBehaviour
         if (other.gameObject.GetComponent<PuddleScript>())
         {
             inWater = false;
+            waterParticle.GetComponent<ParticleSystem>().Stop();
+            waterParticle2.GetComponent<ParticleSystem>().Stop();
         }
     }
 }
