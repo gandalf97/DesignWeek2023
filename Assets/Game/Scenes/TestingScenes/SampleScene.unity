@@ -10270,6 +10270,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5922829355646183120, guid: cfdf4d073382dc9429abb66748415813, type: 3}
+      propertyPath: cameraTransform
+      value: 
+      objectReference: {fileID: 963194228}
     - target: {fileID: 5922829355646183121, guid: cfdf4d073382dc9429abb66748415813, type: 3}
       propertyPath: m_Name
       value: Player
@@ -25365,7 +25369,7 @@ MonoBehaviour:
   force: 500
   exitPoint: {fileID: 1291032633}
   delay: 1
-  isOn: 1
+  isOn: 0
 --- !u!65 &1250279652
 BoxCollider:
   m_ObjectHideFlags: 0
