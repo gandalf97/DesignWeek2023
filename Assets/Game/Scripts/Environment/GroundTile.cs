@@ -31,14 +31,14 @@ public class GroundTile : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        //if (collision.gameObject.GetComponent<IsWater>() && !isWet)
-        //{
-        //    boxCollider.material = wetPhysicsMaterial;
-        //    meshRenderer.material = wetMaterial;
-        //    isWet = true;
-        //    Destroy(collision.gameObject);
-        //}
-    }
+    //private void OnCollisionEnter(Collision collision)
+    //{
+    //    if (collision.gameObject.GetComponent<IsWater>() && !isWet)
+    //    {
+    //        boxCollider.material = wetPhysicsMaterial;
+    //        meshRenderer.material = wetMaterial;
+    //        isWet = true;
+    //        Destroy(collision.gameObject);
+    //    }
+    //}
 }
