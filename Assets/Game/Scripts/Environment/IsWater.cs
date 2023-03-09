@@ -6,6 +6,8 @@ using UnityEngine;
 public class IsWater : MonoBehaviour
 {
     [SerializeField] private GameObject puddlePrefab;
+    [SerializeField] private float LifeTimer = 5;
+
 
     private void OnCollisionEnter(Collision collision)
     {
@@ -17,15 +19,14 @@ public class IsWater : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
-    //private float LifeTimer = 5;
 
-    //// Update is called once per frame
-    //void Update()
-    //{
-    //    LifeTimer -= Time.deltaTime;
-    //    if(LifeTimer <= 0)
-    //    {
-    //        Destroy(this.gameObject);
-    //    }
-    //}
+    // Update is called once per frame
+    void Update()
+    {
+        LifeTimer -= Time.deltaTime;
+        if (LifeTimer <= 0)
+        {
+            Destroy(this.gameObject);
+        }
+    }
 }

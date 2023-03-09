@@ -25408,7 +25408,7 @@ MonoBehaviour:
   waterDropPrefab: {fileID: 1581318062984105696, guid: 53a48b90151848f41926cc8f6e23d009, type: 3}
   force: 500
   exitPoint: {fileID: 1291032633}
-  delay: 1
+  delay: 0
   isOn: 1
 --- !u!65 &1250279652
 BoxCollider:

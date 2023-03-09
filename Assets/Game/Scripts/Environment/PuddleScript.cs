@@ -20,7 +20,7 @@ public class PuddleScript : MonoBehaviour
 
     private void GrowPuddle()
     {
-        if(growthTimer > 0)
+        if(growthTimer > 0 && transform.localScale.x < 1)
         {
             growthTimer -= Time.deltaTime;
             if (growthTimer < 0) growthTimer = 0;
@@ -35,6 +35,15 @@ public class PuddleScript : MonoBehaviour
         {
             growthTimer += growthScale;
             Destroy(other.gameObject);
+        }
+
+        if(other.GetComponent<PuddleScript>())
+        {
+            if (transform.localScale.x > other.transform.localScale.x)
+            {
+                Destroy(other.transform.root.gameObject);
+                growthTimer += growthScale;
+            }
         }
     }
 }
