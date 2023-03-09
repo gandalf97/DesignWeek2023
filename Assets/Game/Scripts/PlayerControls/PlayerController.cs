@@ -7,13 +7,12 @@ public class PlayerController : MonoBehaviour
 {
     private Rigidbody playerRB;
     [SerializeField] private float movementValue = 1.0f;
-    [SerializeField] private GameObject signMesh;
+    [SerializeField] private Animator signAnimator;
     [SerializeField] private float accelerationValue = 10.0f;
     [SerializeField] private ForceMode movementForce;
-
     [SerializeField] private float waterSlipMultplier = 0.5f;
-
-    private bool input = false; //If player is sending input, for animations
+    [SerializeField] private Transform cameraTransform;
+    private bool inWater = false;
 
     // Start is called before the first frame update
     void Start()
@@ -25,19 +24,21 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         UserMovement();
-        VelocityLimit();
+        PlayerRotation();
 
         //Sign Animations
-        signMesh.GetComponent<Animator>().SetBool("Walking", input);
-
+        PlayWalkAnimation();
     }
 
-    private void OnTriggerStay(Collider other)
+    private void PlayWalkAnimation()
     {
-        if(other.gameObject.GetComponent<PuddleScript>())
+        if(inWater)
         {
-            playerRB.velocity += playerRB.velocity.normalized * waterSlipMultplier;
+            signAnimator.SetFloat("PlayerSpeed", 0.0f);
+            return;
         }
+
+        signAnimator.SetFloat("PlayerSpeed", playerRB.velocity.magnitude / 13.0f);
     }
 
     private void UserMovement()
@@ -58,38 +59,41 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKey(KeyCode.A))
         {
             moveDirection.x -= 1;
-
-        input = false;
-
-        Vector3 acceleration = Vector3.zero;
-        if (Input.GetKey(KeyCode.W))
-        {
-            acceleration.z += Time.deltaTime * accelerationValue;
-            input = true;
-        }
-        if (Input.GetKey(KeyCode.S))
-        {
-            acceleration.z -= Time.deltaTime * accelerationValue;
-            input = true;
-
-        }
-        if (Input.GetKey(KeyCode.D))
-        {
-            acceleration.x += Time.deltaTime * accelerationValue;
-            input = true;
-
-        }
-        if (Input.GetKey(KeyCode.A))
-        {
-            acceleration.x -= Time.deltaTime * accelerationValue;
-            input = true;
-
         }
 
+        moveDirection = cameraTransform.rotation * moveDirection;
+        moveDirection.y = 0;
         moveDirection.Normalize();
         moveDirection *= movementValue;
         playerRB.AddForce(moveDirection, movementForce);
+
+        if (inWater)
+        {
+            playerRB.velocity += playerRB.velocity.normalized * waterSlipMultplier;
+        }
     }
 
+    private void PlayerRotation()
+    {
+        if (playerRB.velocity.sqrMagnitude > 0)
+        {
+            transform.LookAt(transform.position + playerRB.velocity - new Vector3(0, playerRB.velocity.y, 0));
+        }
+    }
 
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.GetComponent<PuddleScript>())
+        {
+            inWater = true;
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.GetComponent<PuddleScript>())
+        {
+            inWater = false;
+        }
+    }
 }

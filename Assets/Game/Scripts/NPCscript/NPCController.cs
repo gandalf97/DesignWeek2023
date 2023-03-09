@@ -28,6 +28,12 @@ public class NPCController : MonoBehaviour
         if (points.Count == 0 || fellOver)
             return;
 
+        UpdateDestination();
+        Rotation();
+    }
+
+    private void UpdateDestination()
+    {
         if (navAgent.remainingDistance < 0.1f)
         {
             currentIndex++;
@@ -37,15 +43,23 @@ public class NPCController : MonoBehaviour
         }
     }
 
+    private void Rotation()
+    {
+        if (navAgent.velocity.sqrMagnitude > 0)
+        {
+            transform.LookAt(transform.position + navAgent.velocity - new Vector3(0, navAgent.velocity.y, 0));
+        }
+    }
+
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject.GetComponent<PuddleScript>())
+        if(other.gameObject.GetComponent<PuddleScript>() && !fellOver)
         {
             Vector3 forceDirection = navAgent.velocity;
             navAgent.enabled = false;
             fellOver = true;
-            //humanRB.AddRelativeTorque(new Vector3(3,0,3), ForceMode.Impulse);
-            humanRB.AddForceAtPosition(forceDirection * 100.0f, this.transform.position - new Vector3(0, 1.0f, 0));
+            humanRB.isKinematic = false;
+            humanRB.AddForceAtPosition(forceDirection * 100.0f, this.transform.position - new Vector3(0, 2.0f, 0));
         }
     }
 }
