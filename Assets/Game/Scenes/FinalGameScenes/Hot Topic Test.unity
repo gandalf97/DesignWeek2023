@@ -174,8 +174,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &4745599
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -304,8 +304,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &9619842
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -434,8 +434,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &14489137
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -564,8 +564,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &16408328
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -694,8 +694,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &22662219
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -824,8 +824,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &30961429
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -954,8 +954,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &38269536
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1084,8 +1084,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &39301374
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1168,7 +1168,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_RootOrder
@@ -1176,15 +1176,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 42.83
+      value: 7.4985085
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 10.5
+      value: 5.8949423
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 37.16
+      value: 27.73346
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1271,8 +1271,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &65722944
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1401,8 +1401,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &81105203
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1531,8 +1531,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &87475808
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1610,6 +1610,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 87475805}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &90931133 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2374725619859874643, guid: 08b5fa2e9746a6347b5dce8068b354a5, type: 3}
+  m_PrefabInstance: {fileID: 8166749852709732395}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &112348579
 GameObject:
   m_ObjectHideFlags: 0
@@ -1661,8 +1666,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &112348582
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1791,8 +1796,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &113833366
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1893,8 +1898,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 161527816}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -35.331493, y: -4.6050577, z: -9.426541}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2038,8 +2043,8 @@ Transform:
   - {fileID: 702965807}
   - {fileID: 1039443397}
   - {fileID: 1709576301}
-  m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_Father: {fileID: 575300503}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &166063766
 GameObject:
@@ -2092,8 +2097,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &166063769
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2222,8 +2227,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &174543248
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2352,8 +2357,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &181433394
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2431,90 +2436,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 181433391}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &189019440
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 189019443}
-  - component: {fileID: 189019442}
-  - component: {fileID: 189019441}
-  m_Layer: 0
-  m_Name: Main Camera
-  m_TagString: MainCamera
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!81 &189019441
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 189019440}
-  m_Enabled: 1
---- !u!20 &189019442
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 189019440}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
-  m_FOVAxisMode: 0
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: -1
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
---- !u!4 &189019443
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 189019440}
-  m_LocalRotation: {x: -0.0032796024, y: -0.9999495, z: 0.0046073454, w: 0.008307226}
-  m_LocalPosition: {x: 30, y: 10.4, z: 59.6}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0.525, y: -179.046, z: 0.38}
 --- !u!1 &205332050
 GameObject:
   m_ObjectHideFlags: 0
@@ -2566,8 +2487,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &205332053
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2696,8 +2617,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &207848655
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2826,8 +2747,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &208421192
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2956,8 +2877,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &217748990
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3086,8 +3007,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &220343426
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3216,8 +3137,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &228188585
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3384,13 +3305,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 241816138}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.48, y: 9.7619, z: 18.4725}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -37.811493, y: 5.156842, z: 9.0459585}
   m_LocalScale: {x: 1, y: 20.42329, z: 40.924313}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 1580962220}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &244602060
 GameObject:
@@ -3443,8 +3364,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &244602063
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3522,6 +3443,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 244602060}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &252222429 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
+  m_PrefabInstance: {fileID: 2026974359}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &254839126
 GameObject:
   m_ObjectHideFlags: 0
@@ -3573,8 +3499,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &254839129
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3703,8 +3629,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &259622225
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3833,8 +3759,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &274761641
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3963,8 +3889,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &296745833
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4093,8 +4019,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &321228820
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4223,8 +4149,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &334015585
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4353,8 +4279,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &346236207
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4483,8 +4409,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &376534338
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4613,8 +4539,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &379337290
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4692,6 +4618,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 379337287}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &385879448 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
+  m_PrefabInstance: {fileID: 1830867423825512552}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &394697153
 GameObject:
   m_ObjectHideFlags: 0
@@ -4743,8 +4674,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &394697156
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -4873,8 +4804,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &406513056
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5003,8 +4934,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &416051637
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5082,6 +5013,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 416051634}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &425896657 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
+  m_PrefabInstance: {fileID: 1824443280}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &436290648
 GameObject:
   m_ObjectHideFlags: 0
@@ -5133,8 +5069,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &436290651
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5263,8 +5199,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &477836213
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5393,8 +5329,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &501764373
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5472,6 +5408,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 501764370}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &502462390 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4677605369431854, guid: 28dd981650691bf4b998a5570c7f03a2, type: 3}
+  m_PrefabInstance: {fileID: 1701802648}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &507638838
 GameObject:
   m_ObjectHideFlags: 0
@@ -5523,8 +5464,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &507638841
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5653,8 +5594,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &511076180
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5783,8 +5724,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &530908277
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -5913,8 +5854,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &533096172
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6043,8 +5984,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &535124431
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6173,8 +6114,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &545582306
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6252,6 +6193,40 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 545582303}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &575300502
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 575300503}
+  m_Layer: 0
+  m_Name: Environment
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &575300503
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 575300502}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -38.47, y: 2.27, z: 4.06}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 161527817}
+  - {fileID: 1761990876}
+  - {fileID: 1580962220}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &592234067
 GameObject:
   m_ObjectHideFlags: 0
@@ -6303,8 +6278,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &592234070
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6433,8 +6408,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &607574379
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6517,11 +6492,11 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalScale.x
@@ -6537,15 +6512,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 24.1
+      value: -11.231493
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.8
+      value: -0.80505776
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 16.48
+      value: 7.053458
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6553,15 +6528,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -6632,8 +6607,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &615622439
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6762,8 +6737,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &623381829
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6892,8 +6867,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &629863909
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7022,8 +6997,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &630605256
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7152,8 +7127,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &644614616
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7282,8 +7257,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &654436445
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7412,8 +7387,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &665701825
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7542,8 +7517,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &666653499
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7621,6 +7596,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 666653496}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &681750456 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
+  m_PrefabInstance: {fileID: 8089790871127965699}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &702965806
 GameObject:
   m_ObjectHideFlags: 0
@@ -7672,8 +7652,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &702965809
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7751,6 +7731,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 702965806}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &712366592 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6703717936481782433, guid: 6a58f0254abdbe94db5f990ed95d9817, type: 3}
+  m_PrefabInstance: {fileID: 1385253735}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &727653537
 GameObject:
   m_ObjectHideFlags: 0
@@ -7802,8 +7787,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &727653540
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7932,8 +7917,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &740726595
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8062,8 +8047,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &749598184
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8192,8 +8177,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &750315429
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8360,13 +8345,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 753045476}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 25.5548, y: 9.707, z: 38.53}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.776693, y: 5.101942, z: 29.103458}
   m_LocalScale: {x: 56.61657, y: 20.539143, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_Father: {fileID: 1580962220}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &763865901
 GameObject:
@@ -8419,8 +8404,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &763865904
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8549,8 +8534,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &772499969
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8679,8 +8664,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &783301606
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8809,8 +8794,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &808331541
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8939,8 +8924,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &813369202
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9069,8 +9054,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &818603300
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9199,8 +9184,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &828945861
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9329,8 +9314,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &877221947
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9459,8 +9444,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &927890663
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9589,8 +9574,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &931517032
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9719,8 +9704,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &960960973
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9849,8 +9834,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1006474430
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -9928,6 +9913,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1006474427}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1010482443 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 0f9e8df778f2ada49984c6bf939305e8, type: 3}
+  m_PrefabInstance: {fileID: 1152768857}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1028463195
 GameObject:
   m_ObjectHideFlags: 0
@@ -9979,8 +9969,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1028463198
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10109,8 +10099,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1039443399
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10239,8 +10229,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1040419842
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10369,8 +10359,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1045757263
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10499,8 +10489,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1058753988
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10578,100 +10568,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1058753985}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &1068804726
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1068804728}
-  - component: {fileID: 1068804727}
-  m_Layer: 0
-  m_Name: Directional Light
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!108 &1068804727
-Light:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1068804726}
-  m_Enabled: 1
-  serializedVersion: 10
-  m_Type: 1
-  m_Shape: 0
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
-  m_Range: 10
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
-  m_CookieSize: 10
-  m_Shadows:
-    m_Type: 2
-    m_Resolution: -1
-    m_CustomResolution: -1
-    m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
-    m_CullingMatrixOverride:
-      e00: 1
-      e01: 0
-      e02: 0
-      e03: 0
-      e10: 0
-      e11: 1
-      e12: 0
-      e13: 0
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
-    m_UseCullingMatrixOverride: 0
-  m_Cookie: {fileID: 0}
-  m_DrawHalo: 0
-  m_Flare: {fileID: 0}
-  m_RenderMode: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingLayerMask: 1
-  m_Lightmapping: 4
-  m_LightShadowCasterMode: 0
-  m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
-  m_UseBoundingSphereOverride: 0
-  m_UseViewFrustumForShadowCasterCull: 1
-  m_ShadowRadius: 0
-  m_ShadowAngle: 0
---- !u!4 &1068804728
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1068804726}
-  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 18
-  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &1088804199
 GameObject:
   m_ObjectHideFlags: 0
@@ -10723,8 +10619,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1088804202
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10853,8 +10749,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1095127389
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -10983,8 +10879,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1097670139
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11113,8 +11009,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1118892251
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11243,8 +11139,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1122125807
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11373,8 +11269,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1124695419
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11452,6 +11348,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1124695416}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1128093893 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
+  m_PrefabInstance: {fileID: 58879765}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1136109554
 GameObject:
   m_ObjectHideFlags: 0
@@ -11503,8 +11404,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1136109557
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11582,6 +11483,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1136109554}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1143313094 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4508050771134228, guid: 669679f799484624f86f2ca3427a8be8, type: 3}
+  m_PrefabInstance: {fileID: 1291066323}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1146979350
 GameObject:
   m_ObjectHideFlags: 0
@@ -11633,8 +11539,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1146979353
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11717,7 +11623,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 100000, guid: 0f9e8df778f2ada49984c6bf939305e8, type: 3}
       propertyPath: m_Name
@@ -11725,31 +11631,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0f9e8df778f2ada49984c6bf939305e8, type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0f9e8df778f2ada49984c6bf939305e8, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.9
+      value: 0.90000004
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0f9e8df778f2ada49984c6bf939305e8, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.9
+      value: 0.9000001
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0f9e8df778f2ada49984c6bf939305e8, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.9
+      value: 0.9000001
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0f9e8df778f2ada49984c6bf939305e8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.29
+      value: -36.621494
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0f9e8df778f2ada49984c6bf939305e8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.53
+      value: -1.0750577
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0f9e8df778f2ada49984c6bf939305e8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 30.73
+      value: 21.30346
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0f9e8df778f2ada49984c6bf939305e8, type: 3}
       propertyPath: m_LocalRotation.w
@@ -11836,8 +11742,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1178168341
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -11966,8 +11872,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1203117295
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12050,7 +11956,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 100000, guid: 7b41ce0cf4881e942b22b126c24cac74, type: 3}
       propertyPath: m_Name
@@ -12058,15 +11964,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b41ce0cf4881e942b22b126c24cac74, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b41ce0cf4881e942b22b126c24cac74, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.9
+      value: 0.90000004
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b41ce0cf4881e942b22b126c24cac74, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.9
+      value: 0.90000004
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b41ce0cf4881e942b22b126c24cac74, type: 3}
       propertyPath: m_LocalScale.z
@@ -12074,15 +11980,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b41ce0cf4881e942b22b126c24cac74, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.36
+      value: -36.691494
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b41ce0cf4881e942b22b126c24cac74, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.42
+      value: -1.1850576
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b41ce0cf4881e942b22b126c24cac74, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 35.02
+      value: 25.59346
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 7b41ce0cf4881e942b22b126c24cac74, type: 3}
       propertyPath: m_LocalRotation.w
@@ -12169,8 +12075,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1235415528
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12299,8 +12205,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1262237961
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12429,8 +12335,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1268945147
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12559,8 +12465,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1270279996
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12689,8 +12595,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1282851720
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12819,8 +12725,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1285822865
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -12949,8 +12855,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1288142766
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13033,7 +12939,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 1236559902405704, guid: 669679f799484624f86f2ca3427a8be8, type: 3}
       propertyPath: m_Name
@@ -13041,7 +12947,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4508050771134228, guid: 669679f799484624f86f2ca3427a8be8, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 4508050771134228, guid: 669679f799484624f86f2ca3427a8be8, type: 3}
       propertyPath: m_LocalScale.x
@@ -13057,15 +12963,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4508050771134228, guid: 669679f799484624f86f2ca3427a8be8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 28
+      value: -7.3314934
       objectReference: {fileID: 0}
     - target: {fileID: 4508050771134228, guid: 669679f799484624f86f2ca3427a8be8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.79
+      value: -2.8150578
       objectReference: {fileID: 0}
     - target: {fileID: 4508050771134228, guid: 669679f799484624f86f2ca3427a8be8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 15.9
+      value: 6.4734583
       objectReference: {fileID: 0}
     - target: {fileID: 4508050771134228, guid: 669679f799484624f86f2ca3427a8be8, type: 3}
       propertyPath: m_LocalRotation.w
@@ -13148,8 +13054,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1292233415
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13278,8 +13184,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1305898394
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13408,8 +13314,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1311555862
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13538,8 +13444,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1323706950
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13668,8 +13574,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1346776728
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13798,8 +13704,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1349946965
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -13882,7 +13788,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 1010043167624333022, guid: 6a58f0254abdbe94db5f990ed95d9817, type: 3}
       propertyPath: m_Name
@@ -13890,7 +13796,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6703717936481782433, guid: 6a58f0254abdbe94db5f990ed95d9817, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6703717936481782433, guid: 6a58f0254abdbe94db5f990ed95d9817, type: 3}
       propertyPath: m_LocalScale.x
@@ -13906,15 +13812,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6703717936481782433, guid: 6a58f0254abdbe94db5f990ed95d9817, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 30.42
+      value: -4.9114933
       objectReference: {fileID: 0}
     - target: {fileID: 6703717936481782433, guid: 6a58f0254abdbe94db5f990ed95d9817, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.66
+      value: -0.94505763
       objectReference: {fileID: 0}
     - target: {fileID: 6703717936481782433, guid: 6a58f0254abdbe94db5f990ed95d9817, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 15.75
+      value: 6.3234587
       objectReference: {fileID: 0}
     - target: {fileID: 6703717936481782433, guid: 6a58f0254abdbe94db5f990ed95d9817, type: 3}
       propertyPath: m_LocalRotation.w
@@ -13946,6 +13852,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6a58f0254abdbe94db5f990ed95d9817, type: 3}
+--- !u!4 &1395476944 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
+  m_PrefabInstance: {fileID: 610671624}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1402203074
 GameObject:
   m_ObjectHideFlags: 0
@@ -13997,8 +13908,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1402203077
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14127,8 +14038,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1409642190
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14257,8 +14168,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1421105377
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14387,8 +14298,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1441506159
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14517,8 +14428,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1530006309
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14647,8 +14558,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1558297094
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14731,7 +14642,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_RootOrder
@@ -14751,15 +14662,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 18.4
+      value: -16.931494
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.41
+      value: -4.195058
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 18.75
+      value: 9.323459
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalRotation.w
@@ -14767,15 +14678,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -14795,6 +14706,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
+--- !u!1 &1580962219
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1580962220}
+  m_Layer: 0
+  m_Name: Walls
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1580962220
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1580962219}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 241816142}
+  - {fileID: 753045480}
+  m_Father: {fileID: 575300503}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1583987518
 GameObject:
   m_ObjectHideFlags: 0
@@ -14846,8 +14790,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1583987521
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -14925,6 +14869,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1583987518}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1596099654 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 7b41ce0cf4881e942b22b126c24cac74, type: 3}
+  m_PrefabInstance: {fileID: 1228638215}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1626717575
 GameObject:
   m_ObjectHideFlags: 0
@@ -14976,8 +14925,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1626717578
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15106,8 +15055,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1630442910
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15236,8 +15185,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1641561254
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15366,8 +15315,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1646853897
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15496,8 +15445,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1657951817
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15626,8 +15575,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1662273033
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15756,8 +15705,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1670165266
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -15886,8 +15835,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1685898565
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16016,8 +15965,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1686016831
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16146,8 +16095,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1686275885
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16276,8 +16225,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1686968368
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16406,8 +16355,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1690338589
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16490,7 +16439,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 1192340606150556, guid: 28dd981650691bf4b998a5570c7f03a2, type: 3}
       propertyPath: m_Name
@@ -16498,7 +16447,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4677605369431854, guid: 28dd981650691bf4b998a5570c7f03a2, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 4677605369431854, guid: 28dd981650691bf4b998a5570c7f03a2, type: 3}
       propertyPath: m_LocalScale.x
@@ -16514,15 +16463,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4677605369431854, guid: 28dd981650691bf4b998a5570c7f03a2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.21
+      value: -36.541492
       objectReference: {fileID: 0}
     - target: {fileID: 4677605369431854, guid: 28dd981650691bf4b998a5570c7f03a2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.79
+      value: 0.18494225
       objectReference: {fileID: 0}
     - target: {fileID: 4677605369431854, guid: 28dd981650691bf4b998a5570c7f03a2, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 35.69
+      value: 26.263458
       objectReference: {fileID: 0}
     - target: {fileID: 4677605369431854, guid: 28dd981650691bf4b998a5570c7f03a2, type: 3}
       propertyPath: m_LocalRotation.w
@@ -16534,7 +16483,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4677605369431854, guid: 28dd981650691bf4b998a5570c7f03a2, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4677605369431854, guid: 28dd981650691bf4b998a5570c7f03a2, type: 3}
       propertyPath: m_LocalRotation.z
@@ -16605,8 +16554,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1709576303
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16684,6 +16633,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1709576300}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1715659300 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 43c459dde653d714e83a12acc004589e, type: 3}
+  m_PrefabInstance: {fileID: 1841691288}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1743886010
 GameObject:
   m_ObjectHideFlags: 0
@@ -16735,8 +16689,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1743886013
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16865,8 +16819,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1752741148
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16995,8 +16949,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1759528552
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17074,6 +17028,52 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1759528549}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1761990875
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1761990876}
+  m_Layer: 0
+  m_Name: Props
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1761990876
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1761990875}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 252222429}
+  - {fileID: 385879448}
+  - {fileID: 1128093893}
+  - {fileID: 425896657}
+  - {fileID: 681750456}
+  - {fileID: 2046365970}
+  - {fileID: 1395476944}
+  - {fileID: 712366592}
+  - {fileID: 1143313094}
+  - {fileID: 90931133}
+  - {fileID: 1817202121}
+  - {fileID: 502462390}
+  - {fileID: 1596099654}
+  - {fileID: 1010482443}
+  - {fileID: 1715659300}
+  m_Father: {fileID: 575300503}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1771148350
 GameObject:
   m_ObjectHideFlags: 0
@@ -17125,8 +17125,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1771148353
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17255,8 +17255,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1810407884
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17334,6 +17334,11 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1810407881}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1817202121 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3063986286849638972, guid: 4b32e948b0410274c98a2fe6b5f9bf83, type: 3}
+  m_PrefabInstance: {fileID: 3068614954216378739}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1823018320
 GameObject:
   m_ObjectHideFlags: 0
@@ -17385,8 +17390,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1823018323
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17469,7 +17474,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_RootOrder
@@ -17477,15 +17482,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 42.83
+      value: 7.4985085
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.5
+      value: 2.8949423
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 37.16
+      value: 27.73346
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalRotation.w
@@ -17572,8 +17577,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1827350546
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17702,8 +17707,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1839075817
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -17786,7 +17791,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 100000, guid: 43c459dde653d714e83a12acc004589e, type: 3}
       propertyPath: m_Name
@@ -17794,11 +17799,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 43c459dde653d714e83a12acc004589e, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 43c459dde653d714e83a12acc004589e, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.9
+      value: 0.8999999
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 43c459dde653d714e83a12acc004589e, type: 3}
       propertyPath: m_LocalScale.y
@@ -17810,15 +17815,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 43c459dde653d714e83a12acc004589e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.29
+      value: -36.621494
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 43c459dde653d714e83a12acc004589e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.48
+      value: -3.1250577
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 43c459dde653d714e83a12acc004589e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 32.59
+      value: 23.16346
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 43c459dde653d714e83a12acc004589e, type: 3}
       propertyPath: m_LocalRotation.w
@@ -17905,8 +17910,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1853643998
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18035,8 +18040,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1870419632
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18165,8 +18170,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1891296338
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18295,8 +18300,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1925515043
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18425,8 +18430,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1935760346
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18555,8 +18560,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1950614488
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18685,8 +18690,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1951635701
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18815,8 +18820,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &1986639273
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -18899,23 +18904,23 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.77
+      value: -37.101494
       objectReference: {fileID: 0}
     - target: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 13.511687
+      value: 8.90663
       objectReference: {fileID: 0}
     - target: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 12.67
+      value: 3.2434587
       objectReference: {fileID: 0}
     - target: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
       propertyPath: m_LocalRotation.w
@@ -18951,6 +18956,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e80902614b083544dbb446b78de966fd, type: 3}
+--- !u!4 &2046365970 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2368471849580701088, guid: 1dc2de87675d11142a9921d2ee2b12ac, type: 3}
+  m_PrefabInstance: {fileID: 1572175736}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2050559806
 GameObject:
   m_ObjectHideFlags: 0
@@ -19002,8 +19012,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &2050559809
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19132,8 +19142,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &2092711920
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19262,8 +19272,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &2111332759
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19392,8 +19402,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &2126378787
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19522,8 +19532,8 @@ MonoBehaviour:
   isWet: 0
   wetPhysicsMaterial: {fileID: 13400000, guid: a919fdc240e329041ad0336b6ade21f4, type: 2}
   dryPhysicsMaterial: {fileID: 13400000, guid: 2e2498ffc05cd1c4da9cbc617230c6a7, type: 2}
-  wetMaterial: {fileID: 2100000, guid: 11901ed0fb80eaf49b63ccfef23503b3, type: 2}
-  dryMaterial: {fileID: 2100000, guid: 6aa277915dcc9484a96db17500d569d3, type: 2}
+  wetMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
+  dryMaterial: {fileID: 2100000, guid: 70a938b248f15b740b4eaac07072c0dd, type: 2}
 --- !u!64 &2128001432
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19606,23 +19616,23 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.38
+      value: -36.711494
       objectReference: {fileID: 0}
     - target: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 12.44
+      value: 7.834942
       objectReference: {fileID: 0}
     - target: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.26
+      value: -5.166541
       objectReference: {fileID: 0}
     - target: {fileID: 1994993968418416332, guid: e80902614b083544dbb446b78de966fd, type: 3}
       propertyPath: m_LocalRotation.w
@@ -19663,23 +19673,23 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 3063986286849638972, guid: 4b32e948b0410274c98a2fe6b5f9bf83, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 3063986286849638972, guid: 4b32e948b0410274c98a2fe6b5f9bf83, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.28
+      value: -36.611492
       objectReference: {fileID: 0}
     - target: {fileID: 3063986286849638972, guid: 4b32e948b0410274c98a2fe6b5f9bf83, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.75
+      value: 0.14494228
       objectReference: {fileID: 0}
     - target: {fileID: 3063986286849638972, guid: 4b32e948b0410274c98a2fe6b5f9bf83, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 31.62
+      value: 22.193459
       objectReference: {fileID: 0}
     - target: {fileID: 3063986286849638972, guid: 4b32e948b0410274c98a2fe6b5f9bf83, type: 3}
       propertyPath: m_LocalRotation.w
@@ -19691,7 +19701,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3063986286849638972, guid: 4b32e948b0410274c98a2fe6b5f9bf83, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3063986286849638972, guid: 4b32e948b0410274c98a2fe6b5f9bf83, type: 3}
       propertyPath: m_LocalRotation.z
@@ -19720,7 +19730,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_RootOrder
@@ -19728,15 +19738,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 42.84
+      value: 7.508507
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.5
+      value: -0.10505772
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 37.16
+      value: 27.73346
       objectReference: {fileID: 0}
     - target: {fileID: 4895328833271067933, guid: 38d936fa3bbc58a47a7cb075664cc656, type: 3}
       propertyPath: m_LocalRotation.w
@@ -19777,7 +19787,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1761990876}
     m_Modifications:
     - target: {fileID: 2374725619859849075, guid: 08b5fa2e9746a6347b5dce8068b354a5, type: 3}
       propertyPath: m_Name
@@ -19785,19 +19795,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2374725619859874643, guid: 08b5fa2e9746a6347b5dce8068b354a5, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2374725619859874643, guid: 08b5fa2e9746a6347b5dce8068b354a5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 49.72
+      value: 14.388508
       objectReference: {fileID: 0}
     - target: {fileID: 2374725619859874643, guid: 08b5fa2e9746a6347b5dce8068b354a5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.47
+      value: -4.135058
       objectReference: {fileID: 0}
     - target: {fileID: 2374725619859874643, guid: 08b5fa2e9746a6347b5dce8068b354a5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 34.79
+      value: 25.36346
       objectReference: {fileID: 0}
     - target: {fileID: 2374725619859874643, guid: 08b5fa2e9746a6347b5dce8068b354a5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -19809,7 +19819,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2374725619859874643, guid: 08b5fa2e9746a6347b5dce8068b354a5, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 2374725619859874643, guid: 08b5fa2e9746a6347b5dce8068b354a5, type: 3}
       propertyPath: m_LocalRotation.z
