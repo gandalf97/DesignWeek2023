@@ -36,7 +36,8 @@ public class BucketScript : MonoBehaviour
             timer += Time.deltaTime;
             if (numberDropped < amount && timer >= delay)
             {
-                Instantiate(waterDropPrefab, exitPoint.transform.position, exitPoint.transform.rotation);
+                GameObject newDrop = Instantiate(waterDropPrefab, transform.root);
+                newDrop.transform.position = exitPoint.position;
                 numberDropped++;
                 timer = 0;
             }

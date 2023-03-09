@@ -20,7 +20,7 @@ public class PuddleScript : MonoBehaviour
 
     private void GrowPuddle()
     {
-        if(growthTimer > 0 && transform.localScale.x < 1)
+        if(growthTimer > 0 && transform.localScale.x < 2)
         {
             growthTimer -= Time.deltaTime;
             if (growthTimer < 0) growthTimer = 0;
