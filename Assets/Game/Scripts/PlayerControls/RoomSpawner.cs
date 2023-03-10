@@ -32,7 +32,7 @@ public class RoomSpawner : MonoBehaviour
         {
             Vector3 direction = (other.transform.position - transform.position).normalized;
             if((exitDirection.x< 0 && direction.x < 0) ||(exitDirection.x > 0 && direction.x > 0)
-                || (exitDirection.y < 0 && direction.y < 0) || (exitDirection.y > 0 && direction.y > 0))
+                || (exitDirection.y < 0 && direction.z < 0) || (exitDirection.y > 0 && direction.z > 0))
             {
                 countDown = true;
             }
