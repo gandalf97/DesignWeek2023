@@ -14,4 +14,12 @@ public class StartUp : MonoBehaviour
         SceneManager.LoadSceneAsync(3, LoadSceneMode.Additive);
 
     }
+
+    private void Update()
+    {
+        if(Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
+    }
 }
