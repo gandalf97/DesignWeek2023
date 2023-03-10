@@ -21,5 +21,9 @@ public class StartUp : MonoBehaviour
         {
             Application.Quit();
         }
+        if(Input.GetKey(KeyCode.R))
+        {
+            SceneManager.LoadScene(0, LoadSceneMode.Single);
+        }
     }
 }
